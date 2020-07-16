@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/showatch/static/js/main.63134542.chunk.js",
+    "main.js.map": "/showatch/static/js/main.63134542.chunk.js.map",
+    "runtime-main.js": "/showatch/static/js/runtime-main.4bb72f55.js",
+    "runtime-main.js.map": "/showatch/static/js/runtime-main.4bb72f55.js.map",
+    "static/js/2.058881a1.chunk.js": "/showatch/static/js/2.058881a1.chunk.js",
+    "static/js/2.058881a1.chunk.js.map": "/showatch/static/js/2.058881a1.chunk.js.map",
+    "index.html": "/showatch/index.html",
+    "precache-manifest.5b6757341f90fec0035b9ad5b6c35b2b.js": "/showatch/precache-manifest.5b6757341f90fec0035b9ad5b6c35b2b.js",
+    "service-worker.js": "/showatch/service-worker.js",
+    "static/js/2.058881a1.chunk.js.LICENSE.txt": "/showatch/static/js/2.058881a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb72f55.js",
+    "static/js/2.058881a1.chunk.js",
+    "static/js/main.63134542.chunk.js"
+  ]
+}
