@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/showatch/static/js/main.63134542.chunk.js",
-    "main.js.map": "/showatch/static/js/main.63134542.chunk.js.map",
-    "runtime-main.js": "/showatch/static/js/runtime-main.4bb72f55.js",
-    "runtime-main.js.map": "/showatch/static/js/runtime-main.4bb72f55.js.map",
-    "static/js/2.058881a1.chunk.js": "/showatch/static/js/2.058881a1.chunk.js",
-    "static/js/2.058881a1.chunk.js.map": "/showatch/static/js/2.058881a1.chunk.js.map",
-    "index.html": "/showatch/index.html",
-    "precache-manifest.9af2106cf82a5e49e47f7035e25dfc7a.js": "/showatch/precache-manifest.9af2106cf82a5e49e47f7035e25dfc7a.js",
-    "service-worker.js": "/showatch/service-worker.js",
-    "static/js/2.058881a1.chunk.js.LICENSE.txt": "/showatch/static/js/2.058881a1.chunk.js.LICENSE.txt"
+    "main.js": "/ShoWatch/static/js/main.63134542.chunk.js",
+    "main.js.map": "/ShoWatch/static/js/main.63134542.chunk.js.map",
+    "runtime-main.js": "/ShoWatch/static/js/runtime-main.7d405849.js",
+    "runtime-main.js.map": "/ShoWatch/static/js/runtime-main.7d405849.js.map",
+    "static/js/2.058881a1.chunk.js": "/ShoWatch/static/js/2.058881a1.chunk.js",
+    "static/js/2.058881a1.chunk.js.map": "/ShoWatch/static/js/2.058881a1.chunk.js.map",
+    "index.html": "/ShoWatch/index.html",
+    "precache-manifest.8216aa8032faee1510b98cdd3a4ddf82.js": "/ShoWatch/precache-manifest.8216aa8032faee1510b98cdd3a4ddf82.js",
+    "service-worker.js": "/ShoWatch/service-worker.js",
+    "static/js/2.058881a1.chunk.js.LICENSE.txt": "/ShoWatch/static/js/2.058881a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bb72f55.js",
+    "static/js/runtime-main.7d405849.js",
     "static/js/2.058881a1.chunk.js",
     "static/js/main.63134542.chunk.js"
   ]
