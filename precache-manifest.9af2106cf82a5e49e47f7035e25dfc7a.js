@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bcf69d2a83e8d66f4114046805596c3",
+    "revision": "7dbd70535463f090b59d8a07e4a54471",
     "url": "/showatch/index.html"
   },
   {
